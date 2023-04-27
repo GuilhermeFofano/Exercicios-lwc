@@ -1,0 +1,7 @@
+import { LightningElement, api } from 'lwc';
+
+export default class leaddoido1 extends LightningElement {
+    @api sobrenome;
+    @api empresa;
+    @api statuss;
+}

@@ -1,0 +1,8 @@
+<template>
+    <lightning-card>
+        <h1>Leads</h1>
+        <p> Sobrenome:   {sobrenome}</p>
+        <p> Empresa:  {empresa}</p>
+        <p> Status:   {statuss}</p>
+    </lightning-card>    
+</template>

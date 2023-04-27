@@ -1,0 +1,9 @@
+<template>
+    <lightning-card>
+        <c-oppsdaconta1 ide="0" name="Thay" amount=22000000 stage="Closed Won"></c-oppsdaconta1>
+       
+
+
+
+    </lightning-card>
+</template>

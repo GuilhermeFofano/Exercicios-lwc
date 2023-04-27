@@ -1,0 +1,5 @@
+<template>
+    <lightning-card>
+    <c-leaddoido1  sobrenome="Guizin" empresa="SoulCode" statuss="Aberto"></c-leaddoido1>
+    </lightning-card>
+</template>

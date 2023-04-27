@@ -1,0 +1,15 @@
+import { LightningElement } from 'lwc';
+
+export default class Atividade1 extends LightningElement {
+    pessoa = [
+        {
+        id: 345345,
+        primeironome:          "Renanzito" , 
+        sobrenome:              "bigodudo", 
+        idade:                  "35", 
+        email:                  "renanzinho@bigoditu.cuom", 
+        classificacao:          "hot" , 
+        empresa:                "Salesforce" , 
+        receitaanual:           2000000}, 
+        ];
+}
